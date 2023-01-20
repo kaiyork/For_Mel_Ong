@@ -1,6 +1,6 @@
 # Proprosal
 Personal project to propose to Mel ong
-A mobile application that will contain all our fondest Memories, written using react-native.
+A mobile application that will contain all our fondest Memories.
 
 # Set-up
 ## Node.js  
